@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Exercice 18",
-  description: "Exercice sur l'instalation et l'utilisation de Vitepress",
+  description: "Revue de code documentée",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

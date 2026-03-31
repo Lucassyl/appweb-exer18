@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Exercice 18"
-  text: "Exercice sur l'instalation et l'utilisation de Vitepress"
+  text: "Revue de code documentée"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -13,7 +13,9 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+      
 name: "Lucas Sylvain"
+
 
 features:
   - title: Feature A
