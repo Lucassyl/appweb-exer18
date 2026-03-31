@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/Lucas-Sylvain' },
+          { text: 'Review TP1 Lucas', link: '/Lucas-Sylvain' },
         ]
       }
     ],
